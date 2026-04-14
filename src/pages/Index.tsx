@@ -88,7 +88,7 @@ const Index = () => {
       </div>
 
       {/* Header */}
-      <header className="bg-gradient-to-r from-verde via-[#007d2f] to-azul py-3.5 sticky top-0 z-40 shadow-lg">
+      <header className="bg-gradient-to-r from-red-600 to-red-800 py-3.5 sticky top-0 z-40 shadow-lg">
         <div className="max-w-[1100px] mx-auto px-5 flex items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <div className="w-13 h-13 rounded-full bg-amarelo flex items-center justify-center text-2xl flex-shrink-0">
