@@ -122,3 +122,14 @@
     animation: pulse-whats 2s infinite;
   }
 }
+
+/* Esconder marca d'água do Lovable */
+#lovable-badge, 
+.lovable-badge,
+[data-lovable-badge],
+.lovable-watermark {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
