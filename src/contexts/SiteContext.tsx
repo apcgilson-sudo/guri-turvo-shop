@@ -100,7 +100,7 @@ const defaultProducts: Product[] = [
 ];
 
 const defaultSettings: SiteSettings = {
-  storeName: 'Sorvetes Guri',
+  storeName: 'SORVETES GURI - SYNC TEST',
   storeSubtitle: 'Turvo · Copa 2026 🏆',
   logoEmoji: '🍦',
   address: 'Praça 31 de Outubro',
